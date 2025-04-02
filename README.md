@@ -1,8 +1,6 @@
-
 ## 👋 Hi there, I'm Ngo Le Thao Nguyen!
 
 🎓 I'm a Software Engineering student at [FPT University HCM - Vietnam](https://daihoc.fpt.edu.vn/), passionate about building practical and user-friendly applications.  
-I enjoy exploring new technologies and continuously improving my skills through hands-on learning.
 
 ---
 
