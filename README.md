@@ -7,7 +7,7 @@
 ### 🌱 What I’m working with:
 
 - `C#`, `JavaScript`, and `.NET Framework` (including ASP.NET MVC & Web API)
-- Currently exploring: `.NET Core`, `React`, `RESTful APIs`, and `Azure`
+- Currently exploring: `.NET Core`, `React`, `RESTful APIs`
 
 ### 💻 Tech Stack
 
