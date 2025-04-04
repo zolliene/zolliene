@@ -26,8 +26,3 @@
 
 - 💬 [Facebook – Thao Nguyen](https://www.facebook.com/zollieng)
 - 📧 Email: [thaonguyen07112004@gmail.com](mailto:thaonguyen07112004@gmail.com) | [NguyenNLTSE183870@fpt.edu.vn](mailto:NguyenNLTSE183870@fpt.edu.vn)
----
-
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolliene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zolliene&show_icons=true&count_private=true)
